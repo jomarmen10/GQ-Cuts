@@ -9,9 +9,10 @@ const Navbar = props => {
     <div>
       <h1>GQ Cuts</h1>
       <NavLink to={'/'}>Home</NavLink>
-      <NavLink to={'/'}>Nab 2</NavLink>
-      <NavLink to={'/'}>Nav 3</NavLink>
-      <NavLink to={'/'}>Nav 4</NavLink>
+      <NavLink to={'/schedule'}>schedule</NavLink>
+      <NavLink to={'/pricing'}>pricing</NavLink>
+      <NavLink to={'/gallery'}>gallery</NavLink>
+      <NavLink to={'/barbers'}>barbers</NavLink>
     </div>
   )
 }
