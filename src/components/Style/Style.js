@@ -44,3 +44,29 @@ export const PricingStyle = styled.div`
     float: right;
   }
 `
+
+export const ScheduleStyle = styled.div`
+
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  .center {
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  .left {
+    float: left;
+  }
+
+  .right {
+    float: right;
+  }
+
+`
