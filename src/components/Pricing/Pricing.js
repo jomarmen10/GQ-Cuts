@@ -7,7 +7,7 @@ const Pricing = props => {
     <PricingStyle>
       <div className="container">
         <div className="center">
-          <h1>Pricing</h1>
+          <h2>Pricing</h2>
           <p>Duis aute irure dolor in reprehenderit volupte velit esse cillum dolore eu fugiat pariatursint occaecat cupidatat non proident culpa.</p>
         </div>
 
